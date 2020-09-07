@@ -1,0 +1,12 @@
+[submodule "breeze-icons"]
+	path = breeze-icons
+	url = git@invent.kde.org:masonm/breeze-icons.git
+[submodule "kirigami"]
+	path = kirigami
+	url = git@invent.kde.org:masonm/kirigami.git
+[submodule "extra-cmake-modules"]
+	path = extra-cmake-modules
+	url = git@invent.kde.org:masonm/extra-cmake-modules.git
+[submodule "kirigami-gallery"]
+	path = kirigami-gallery
+	url = git@invent.kde.org:masonm/kirigami-gallery.git
